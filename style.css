@@ -112,7 +112,7 @@ header {
     transform: translateY(-50%);
     width: 18px;
     height: 18px;
-    background: url(/image/phone.svg) center no-repeat;
+    background: url(https://zhilenkoivan.github.io/samusb/image/phone.svg) center no-repeat;
 }
 
 /* hero */
@@ -120,7 +120,7 @@ header {
 .hero {
     width: 100%;
     padding: 140px 0;
-    background: url(/image/hero.png) center no-repeat;
+    background: url(https://zhilenkoivan.github.io/samusb/image/hero.png) center no-repeat;
     background-size: cover;
     color: #ffffff;
 }
@@ -714,7 +714,7 @@ line-height: normal;
     width: 88px;
     height: 6px;
     content:"";
-    background: url(/image/next.svg) center no-repeat;
+    background: url(https://zhilenkoivan.github.io/samusb/image/next.svg) center no-repeat;
   }
   .swiper-button-prev::after {
     position: absolute;
@@ -724,7 +724,7 @@ line-height: normal;
     width: 88px;
     height: 6px;
     content:"";
-    background: url(/image/prev.svg) center no-repeat;
+    background: url(https://zhilenkoivan.github.io/samusb/image/prev.svg) center no-repeat;
   }
   .swiper-wrapper {
     display: grid;
@@ -915,7 +915,7 @@ line-height: normal;
         transform: translateY(-50%);
         width: 8px;
         height: 5px;
-        background: url(/image/more.svg) center no-repeat;
+        background: url(https://zhilenkoivan.github.io/samusb/image/more.svg) center no-repeat;
     }
     .title {
         font-size: 35px;
@@ -948,7 +948,7 @@ line-height: normal;
         padding-bottom: 55px;
     }
     .hero {
-        background: url(/image/hero-mob.png) center no-repeat;
+        background: url(https://zhilenkoivan.github.io/samusb/image/hero-mob.png) center no-repeat;
         background-size: cover;
     }
     .wrapper--why {
@@ -1216,7 +1216,7 @@ line-height: normal;
     display: block;
     width: 100vw;
     height: 100vh;
-    background: url(/image/error.png) center no-repeat;
+    background: url(https://zhilenkoivan.github.io/samusb/image/error.png) center no-repeat;
     background-size: cover;
     box-sizing: border-box;
     overflow: hidden;
@@ -1278,7 +1278,7 @@ line-height: normal;
         margin-bottom: 40px;
     }
     .main-error {
-        background: url(/image/error.png) left no-repeat;
+        background: url(https://zhilenkoivan.github.io/samusb/image/error.png) left no-repeat;
         background-size: cover;
     }
 }
