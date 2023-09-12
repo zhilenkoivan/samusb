@@ -1351,3 +1351,21 @@ input:focus-visible {
         right: 28%;
     }
 }
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 5;
+}
+.hero {
+    margin-top: 136px;
+}
+@media (max-width: 1024px) {
+    .hero {
+        margin-top: 75px;
+    }
+}
+.accordion {
+    margin-top: 10px;
+}
